@@ -1,0 +1,25 @@
+{
+"name": "Synapsin",
+"description": "Synapsin",
+"keywords": [
+"Music",
+"Neuroscience"
+],
+"website": "https://synapsin.co.uk",
+"repository": "https://github.com/synapsin21/synapsin-code",
+"scripts": {
+"postdeploy": "bundle exec rake bootstrap"
+},
+"formation": {
+"web": {
+"quantity": 1,
+"size": "standard-1x"
+}
+},
+"image": "heroku/php",
+"buildpacks": [
+{
+"url": "heroku/php"
+}
+]
+}
