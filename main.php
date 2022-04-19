@@ -58,7 +58,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
 
 <!-- MAin logo -->
   <div class="w3-display-container w3-center">
-    <img src="/images/main_fig4.png">
+    <img src="/images/main_fig4.png" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
     </div>
   </div>
