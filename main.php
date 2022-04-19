@@ -65,7 +65,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Band Section -->
   <div class="w3-black" id="manifesto">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
-      <h1 class="w3-wide w3-center" style="color:yellow;">MANIFESTO</h1>
+      <h1 class="w3-wide w3-center">MANIFESTO</h1>
       <p class="w3-justify">We are SYNAPSIN, a collective of neuroscientists and musicians unified by our passion for electronic music. Since the start, we have aimed to create the optimal environment for artists to express themselves without commercial or economic pressures. </p>
       <p class="w3-justify">DJs and producers have to work with an event-driven industry focused on profit. Line-ups are curated by revenue and not by talent or musical ideas. SYNAPSIN is the motivation to change that. Following the initial critical testing stage, we are finally ready to commence. We have secured funds from our past events and gained the support of private investors. SYNAPSIN becomes a non-profit organisation that will shake the music event industry by its roots. </p>
       <p class="w3-justify">We aim to facilitate the exposure of emerging talent and non-established artists as their platform for promotion. We select applicants for our events based on their styles and abilities, not by followers or play counts. We combine artists with different genres such as techno, house, 80s, minimal, acid, post-punk, electro, experimental, funk, psytrance, and new wave to help push boundaries between musical styles. We facilitate collaboration and musical inclusion. </p>
@@ -162,7 +162,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Events Section -->
   <div class="w3-black" id="events">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-      <h1 class="w3-wide w3-center" style="color:yellow;">EVENT DATES</h1>
+      <h1 class="w3-wide w3-center">EVENT DATES</h1>
 
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
@@ -188,7 +188,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Music Section -->
   <div class="w3-black" id="music">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-    <h1 class="w3-wide w3-center" style="color:yellow;">MUSIC</h1>
+    <h1 class="w3-wide w3-center">MUSIC</h1>
     <iframe src="https://open.spotify.com/embed/playlist/6Q97uynhTJ1mdyeYgGH6Fr?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   </div>
   </div>
@@ -208,7 +208,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Videos Section -->
   <div class="w3-black" id="videos">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-      <h1 class="w3-wide w3-center" style="color:yellow;">VIDEOS</h1>
+      <h1 class="w3-wide w3-center">VIDEOS</h1>
       <p class="w3-opacity w3-center"><i>We love music!</i></p><br>
       <div class="videoWrapper">
         <iframe frameborder="0" src="https://www.youtube.com/embed/videoseries?list=PLp6yPPmbpxAAH9O9ETtW18QaHhJxSMvaS&autoplay=1" frameborder="0" ></iframe>
@@ -219,7 +219,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Contact Section -->
   <div class="w3-black" id="contact">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
-      <h1 class="w3-wide w3-center" style="color:yellow;">CONTACT</h1>
+      <h1 class="w3-wide w3-center" >CONTACT</h1>
       <p class="w3-opacity"><i>Drop us a message!</i></p>
       <div class="w3-row w3-padding-32 w3-center">
         <p class="w3-center"><i class="fa fa-map-marker" style="width:30px"></i> London, United Kingdom<br></p>
