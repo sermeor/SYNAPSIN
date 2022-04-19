@@ -196,7 +196,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
   <!-- The Opportunities Section -->
   <div class="w3-black" id="opportunities">
     <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px">
-      <h2 class="w3-wide w3-center" style="color:yellow;">OPPORTUNITIES</h2>
+      <h2 class="w3-wide w3-center">OPPORTUNITIES</h2>
       <p class="w3-justify">Like music, individuals are dynamic elements in constant change and development. We believe that openness to change and inclusion must be a cornerstone of all collectives.</p>
       <p class="w3-justify">Therefore, we welcome new people to join us. We always looking for musicians such as DJs, producers and instrumentalist which want to give a fresh taste to our roots. We also welcome any feedback (good or bad) or recommendation you can give us.</p>
       <p class="w3-justify">If you looking to perform in one of our parties or to help us build a better event experience, drop us a line. We are here to hear, and we always reply.</p>
