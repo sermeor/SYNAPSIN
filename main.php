@@ -164,6 +164,16 @@ body {font-family: "Lato", sans-serif, background-color: black;}
       <h3 class="w3-wide w3-center">EVENT DATES</h3>
       <br>
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+
+        <div class="w3-third w3-margin-bottom">
+          <a href="https://ra.co/events/1590479"><img src="/images/s3.png" style="width:100%" class="w3-hover-opacity"></a>
+          <div class="w3-container w3-white">
+            <p><b>Synapsin III, The Globe That Fits, London</b></p>
+            <p class="w3-opacity">Saturday 8th Oct, 2022</p>
+            <p>Tickets available.</p>
+          </div>
+        </div>
+        
         <div class="w3-third w3-margin-bottom">
             <a href="https://ra.co/events/1498030"><img src="/images/sg2.png" style="width:100%" class="w3-hover-opacity"></a>
           <div class="w3-container w3-white">
@@ -172,6 +182,7 @@ body {font-family: "Lato", sans-serif, background-color: black;}
             <p>Past event.</p>
           </div>
         </div>
+
         <div class="w3-third w3-margin-bottom">
           <a href="https://ra.co/events/1477080"><img src="/images/s1.png" style="width:100%" class="w3-hover-opacity"></a>
           <div class="w3-container w3-white">
